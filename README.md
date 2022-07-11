@@ -19,3 +19,5 @@
     3. ve 4. adımlarda tek tek bakıldığı için O(n) dir.
     Her bir adımda yarıya bölündüğü için 2^x=n den x=logn dir.
     Toplamda n kere logn yapıldığı için O(nlogn) olarak bulunur.
+    
+   (www.patika.dev)
