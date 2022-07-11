@@ -1,5 +1,7 @@
 # Merge-Sort-Projesi
-## Proje 2 
+
+Proje 2 
+
 ## [16,21,11,8,12,22] -> Merge Sort
 
 ## 1.Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
@@ -20,4 +22,4 @@
     Her bir adımda yarıya bölündüğü için 2^x=n den x=logn dir.
     Toplamda n kere logn yapıldığı için O(nlogn) olarak bulunur.
     
-   (www.patika.dev)
+  (www.patika.dev)
